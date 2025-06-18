@@ -70,7 +70,4 @@ calcular e escrever o valor total do aluguel, o valor do desconto, o numero de d
 ## Exercício 20
 > Escreva um programa que lê o tamanho do lado de um quadrado e imprime um quadrado daquele tamanho com asteriscos e espaços em branco. Seu programa deve funcionar para quadrados com lados de todos os tamanhos entre 1 e 20.
 
-![GitHub License](https://img.shields.io/github/license/seu-usuario/repositorio)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-
 ![java script logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
