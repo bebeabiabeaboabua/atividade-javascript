@@ -38,7 +38,7 @@ calcular e escrever o valor total do aluguel, o valor do desconto, o numero de d
 ## Exercício 10
 > Escrever um programa que lê a taxa de consumo de potência elétrica de um refrigerador, o tempo em horas que permaneceu ligado e o valor do quilowatt hora e calcular e escrever a energia total gasta pelo refrigerador, bem como, o valor a ser pago à companhia de Energia Elétrica.
 
-### REPETIÇÃO
+## REPETIÇÃO
 
 ## Exercício 11
 > Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido. 
